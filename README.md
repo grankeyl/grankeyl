@@ -39,8 +39,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grankeyl&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grankeyl&theme=ayu_mirage" height="180em" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grankeyl&theme=ayu_mirage" width="100%" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grankeyl&theme=ayu_mirage" width="100%" height="180em" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=grankeyl&theme=github-compact"/>
