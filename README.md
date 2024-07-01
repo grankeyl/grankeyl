@@ -39,5 +39,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grankeyl&theme=ayu_mirage" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grankeyl&theme=ayu_mirage" height="180em" />
+<div style="display: flex;">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grankeyl&theme=ayu_mirage" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grankeyl&theme=ayu_mirage" height="180em" />
+</div>
