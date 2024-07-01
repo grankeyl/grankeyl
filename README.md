@@ -2,8 +2,6 @@
 <h3 align="center">Programmer/designer with more than 4 years of experience.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grankeyl&label=Profile%20views&color=0e75b6&style=flat" alt="grankeyl" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grankeyl&theme=" alt="grankeyl" /></a> </p>
-
 - 🔭 I’m currently working on **peps-game**
 - 🌱 I’m currently learning **Golang, TON Play**
 - 💬 Ask me about **Python, React, Telegram Web Apps**
